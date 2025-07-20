@@ -22,21 +22,6 @@ I'm a **DevOps & Infrastructure Engineer** with a rare blend of hands-on system 
 - **Languages:** Python, Go, Bash, PowerShell
 - **Other:** Commvault, Linux, Git, GitLab API
 
----
-
-## 🚀 Highlight Projects
-- [📦 GitLab CLI Tool](https://github.com/Tamir26/gitlab-cli-tool): Python-based tool to manage user permissions & activity via GitLab API — built as a home assignment for Mobileye.
-- [☁️ Wiki.js Terraform Deployment](https://github.com/Tamir26/Wiki_JS_Terrafrom): Deployed Wiki.js on AWS using Terraform, Karpenter, and EKS.
-- [🛡️ MongoDB Backup Automation](https://github.com/Tamir26/Commvault-Mongo-Backup): Automated backup integration between Commvault and MongoDB using PowerShell and Python.
-
----
-
-## 📚 Currently Learning
-- Advanced Kubernetes scheduling strategies (affinity, taints, topology)
-- RAG & AI-enhanced observability
-- Cloud cost optimization for scale
-
----
 
 ## 📫 Reach Out
 - [📧 Email](mailto:tamirshoval26@gmail.com)
